@@ -1,0 +1,9 @@
+Reference https://github.com/Microsoft/computerscience/tree/master/Labs/Internet-of-Things/Azure%20Stream%20Analytics
+
+Things done to achieve the Real time fraud detection of ATM Transaction and Website to display almost real time data:
+- Created Azure event hubs and use them for Stream Analytics input and output
+- Created a Stream Analytics job and test queries on sample data streams
+- Executed a Stream Analytics job and performed queries on live data streams
+- Consumed events from an event hub and display them in a Web app
+
+All the above tasks, ie Web App and Real time data generation was done using C#
